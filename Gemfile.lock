@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    websocket-driver (0.2.3)
+    websocket-driver (0.2.3-java)
+
+PLATFORMS
+  java
+  ruby
+
+DEPENDENCIES
+  websocket-driver (~> 0.2)
